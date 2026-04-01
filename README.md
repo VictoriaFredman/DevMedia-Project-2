@@ -1,7 +1,7 @@
 # DevMedia-Project-2
 <!DOCTYPE html>
 <html lang="pt-br">
-<head charset="utf-8">
+<head charset="utf-8"
    <title> Parque Estadual Ilha Bela </title> 
 </head> 
 
