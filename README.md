@@ -7,7 +7,6 @@
 </title>
 </head>
 
-</html>
 
 <body>
     <div> 
