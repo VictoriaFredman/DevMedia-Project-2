@@ -2,8 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head charset="utf-8"
-   <title> Parque Estadual Ilha Bela </title> 
-</head> 
+   <title> Parque Estadual Ilha Bela </title> </head> 
 
 <body>
     <div> 
