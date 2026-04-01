@@ -6,12 +6,9 @@
 <title>Parque Estadual Ilha Bela</title>
 </head>
 
-<body>
-
-
 </html>
 
-
+<body>
     <div> 
     <h1> Parque Estadual Ilha Bela </h1>
     <img src="parque-ilha-bela.jpg" alt="Parque Ilha Bela">
